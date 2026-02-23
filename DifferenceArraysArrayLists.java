@@ -1,5 +1,5 @@
 /* 
- Fuel Efficiency Calculator
+ Difference Arrays ArrayLists
  Author: Nicholas S. Damuth
  School of Technology and Engineering, National University
  CSC262: Programming in JAVA
